@@ -1,0 +1,38 @@
+_repo: The-Devil-s-Motor-A-Fantasy_61716
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Severn, Arthur
+    alias: Severn, Joseph Arthur Palliser
+    birthdate: 1842
+    deathdate: 1931
+    gutenberg_agent_id: '51580'
+    url: http://www.gutenberg.org/2009/agents/51580
+creator:
+  author:
+    agent_name: Corelli, Marie
+    aliases:
+    - Corelli, Maria
+    - Mackay, Mary
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '1321'
+    url: http://www.gutenberg.org/2009/agents/1321
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Corelli
+description: ''
+gutenberg_issued: '2020-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Devil -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Automobiles -- Fiction'
+- GITenberg
+title: 'The Devil''s Motor: A Fantasy'
+url: http://www.gutenberg.org/ebooks/61716
