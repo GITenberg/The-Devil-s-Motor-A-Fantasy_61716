@@ -8,6 +8,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '51580'
     url: http://www.gutenberg.org/2009/agents/51580
+covers:
+- cover_type: archival
+  image_path: 61716-h/images/t_cover.jpg
 creator:
   author:
     agent_name: Corelli, Marie
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1321
     wikipedia: https://en.wikipedia.org/wiki/Marie_Corelli
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61716#The-Devil-s-Motor-A-Fantasy
 gutenberg_issued: '2020-03-31'
 gutenberg_type: Text
 identifiers:
